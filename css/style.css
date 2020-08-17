@@ -123,7 +123,7 @@ aside h2{
 
 .addToQueue:hover{
 	color: white;
-	background-color: #F27D70;
+	background-color: #8bc34a;
 }
 
 
@@ -170,7 +170,7 @@ select{
 
 select:hover{
 	background-color: white;
-	color: #F27D70;
+	color: #8bc34a;
 }
 
 /* grid wooo */
@@ -361,7 +361,7 @@ footer p{
 
 	#close:hover{
 		background-color: white;
-		color: #F27D70;
+		color: #8bc34a;
 	}
 
 
