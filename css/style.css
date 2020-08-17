@@ -212,7 +212,7 @@ select:hover{
 }
 
 footer p{
-	padding-left: 20px;
+	display: none;
 }
 
 .kpop{
