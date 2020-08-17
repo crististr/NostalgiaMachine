@@ -224,6 +224,7 @@ footer p{
     text-decoration: none;
     align-self: center;
     padding: 20px;
+	display: none;
 }
 
 .kpop:hover{
